@@ -6,15 +6,15 @@ public class Driver {
         
         Ball ball = new Ball();
         
-        System.out.println("Number of balls: " + ball.getNumberOfBalls());
+        System.out.println("How number of balls: " + ball.getNumberOfBalls());
         
         ball.addBall();
         
-        System.out.println("Number of balls: " + ball.getNumberOfBalls());
+        System.out.println("How number of balls: " + ball.getNumberOfBalls());
         
         ball.removeBall();
         
-        System.out.println("Number of balls: " + ball.getNumberOfBalls());
+        System.out.println("How number of balls: " + ball.getNumberOfBalls());
         
     }
 }
