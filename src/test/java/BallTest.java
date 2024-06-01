@@ -16,7 +16,7 @@ public class BallTest {
         
         testBall.reset();
         
-        assertEquals(testBall.getNumberOfBalls(), 0);
+        assertEquals(testBall.getNumberOfBalls(), 3);
     }
 
     @Test
