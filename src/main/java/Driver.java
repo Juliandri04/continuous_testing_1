@@ -6,7 +6,7 @@ public class Driver {
         
         Ball ball = new Ball();
         
-        System.out.println("How number of balls: " + ball.getNumberOfBalls());
+        System.out.println("How number of balls test: " + ball.getNumberOfBalls());
         
         ball.addBall();
         
